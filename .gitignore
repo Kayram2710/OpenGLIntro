@@ -1,9 +1,3 @@
-# Test logs
-Testing/*
-
-# Test input
-test/gtc/*.dds
-
 # Project Files
 Makefile
 *.cbp
@@ -12,9 +6,7 @@ Makefile
 # Misc.
 *.log
 
-# local build(s)
-build*
-
+# Local Rep
 /.vs
 /.vscode
 /CMakeSettings.json
