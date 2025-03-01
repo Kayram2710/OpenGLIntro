@@ -14,3 +14,4 @@ Makefile
 *.swp
 /OpenGLIntro
 /x64
+OpenGLIntro.vcxproj
