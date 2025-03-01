@@ -42,6 +42,33 @@ const char* fragmentShaderSource = R"glsl(
     }
 )glsl";
 
+
+
+//-- Process keyboard input and update the transformation matrix
+void processInput(GLFWwindow* window, glm::mat4& transform, float d, float s) {
+    // Translation
+    if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
+        transform = glm::translate(transform, glm::vec3(0.0f, d, 0.0f));
+    if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS)
+        transform = glm::translate(transform, glm::vec3(0.0f, -d, 0.0f));
+    if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS)
+        transform = glm::translate(transform, glm::vec3(-d, 0.0f, 0.0f));
+    if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
+        transform = glm::translate(transform, glm::vec3(d, 0.0f, 0.0f));
+
+    // Rotation rotate around the Z-axis
+    if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(30.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+    if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(-30.0f), glm::vec3(0.0f, 0.0f, 1.0f));
+
+    // Scaling only the Z axis
+    if (glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS)
+        transform = glm::scale(transform, glm::vec3(1.0f, 1.0f, s));
+    if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
+        transform = glm::scale(transform, glm::vec3(1.0f, 1.0f, 1.0f / s));
+}
+
 int main(){
     //======================WINDOW======================
     //Initializing GLFW
@@ -161,19 +188,65 @@ int main(){
     };
     glUniformMatrix4fv(transformLoc, 1, GL_FALSE, identity);
 
+    //-- Create an initial identity matrix that will be updated based on input
+    glm::mat4 transform = glm::mat4(1.0f);
+
+    // translation and scaling factor
+    const float d = 0.02f;  // Change in position per key press
+    const float s = 1.05f;  // Scale factor for z-axis scaling
+
     //======================MAIN LOOP======================
     do {
+
+        // Process keyboard input to update the transformation matrix
+        processInput(window, transform, d, s);
+
+        // If any transformation key is pressed, output current matrix and transformed vertices.
+        if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS ||
+            glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
+        {
+            std::cout << "Current Transformation Matrix:" << std::endl;
+            // Print matrix in row-major order for clarity
+            for (int row = 0; row < 4; row++) {
+                std::cout << transform[0][row] << " "
+                    << transform[1][row] << " "
+                    << transform[2][row] << " "
+                    << transform[3][row] << std::endl;
+            }
+            std::cout << "Transformed Vertex Positions:" << std::endl;
+            for (int i = 0; i < 5; i++) {
+                glm::vec4 original(verticesPyramid[i * 3],
+                    verticesPyramid[i * 3 + 1],
+                    verticesPyramid[i * 3 + 2],
+                    1.0f);
+                glm::vec4 newPos = transform * original;
+                std::cout << "Vertex " << i << ": ("
+                    << newPos.x << ", "
+                    << newPos.y << ", "
+                    << newPos.z << ")" << std::endl;
+            }
+            std::cout << "-----------------------------" << std::endl;
+        }
+
         //Clear screen and set color
         glClearColor(0.2f, 0.3f, 0.3f, 0.1f);
         glClear(GL_COLOR_BUFFER_BIT);
 
         //Run shaders program
         glUseProgram(shaderProgram);
+		//-- update the uniform transform matrix
+        glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(transform));
 
         //(OPTIONAL) ROTATION TO TEST========================
-        float timeValue = glfwGetTime();
-        glm::mat4 trans = glm::rotate(glm::mat4(1.0f), timeValue, glm::vec3(0.0f, 1.0f, 0.0f));
-        glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(trans));
+        //float timeValue = glfwGetTime();
+        //glm::mat4 trans = glm::rotate(glm::mat4(1.0f), timeValue, glm::vec3(0.0f, 1.0f, 0.0f));
+        //glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(trans));
         //==================================================
 
         //Bind Vertex Array

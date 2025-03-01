@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\kimom\source\repos\OpenGLIntro\External Dependencies\GLM\glm;C:\Program Files\GLFW\include;C:\Program Files\GLEW\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0\um\x64;C:\Program Files\GLFW\lib-vc2022;C:\Program Files\GLEW\lib\Release\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\Jammie\Documents\GitHub\OpenGLIntro\External Dependencies\GLM\glm;C:\Users\Jammie\Documents\GitHub\OpenGLIntro\External Dependencies\GLFW\include;C:\Users\Jammie\Documents\GitHub\OpenGLIntro\External Dependencies\GLEW\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\Jammie\Documents\GitHub\OpenGLIntro\External Dependencies\GLFW\lib-vc2022;C:\Users\Jammie\Documents\GitHub\OpenGLIntro\External Dependencies\GLEW\lib\Release\x64;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.26100.0;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
