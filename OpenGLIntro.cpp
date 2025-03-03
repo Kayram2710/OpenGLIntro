@@ -1,14 +1,13 @@
 
 // OpenGLIntro.cpp : This file contains the 'main' function. Program execution begins and ends there.
 #include <iostream>
+#include <cstdio>
+
 #include <GL/glew.h>    
 #include <GLFW/glfw3.h> 
-
-//==========(Optional) to rotate
 #include <glm.hpp>
 #include <gtc/matrix_transform.hpp>
 #include <gtc/type_ptr.hpp>
-//==============================
 
 /*Defining vertex shaders sources.
 Line by line description of vertex source:
@@ -32,13 +31,14 @@ const char* vertexShaderSource = R"glsl(
 Line by line description of vertex source:
 Creating GLSL program stored as string lateral.
 Indicate OpenGL version (3.30)
-Define 3 coord vector as color
-The main loop enforces the color vector (later read in RGB)*/
+Define 3 coord vector as color and as ourColor
+The main loop enforces the color vector ourColor (read in RGB)*/
 const char* fragmentShaderSource = R"glsl(
     #version 330 core
     out vec3 color;
+    uniform vec3 ourColor;
     void main(){
-      color = vec3(1.0,0.0,0.0);
+      color = ourColor;
     }
 )glsl";
 
@@ -67,9 +67,30 @@ void processInput(GLFWwindow* window, glm::mat4& transform, float d, float s) {
         transform = glm::scale(transform, glm::vec3(1.0f, 1.0f, s));
     if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
         transform = glm::scale(transform, glm::vec3(1.0f, 1.0f, 1.0f / s));
+
+    // Demo Additions
+    //Y ROTATIONS
+    if (glfwGetKey(window, GLFW_KEY_Z) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(5.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+    if (glfwGetKey(window, GLFW_KEY_X) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(-5.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+    //X ROTATIONS
+    if (glfwGetKey(window, GLFW_KEY_T) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(5.0f), glm::vec3(1.0f, 0.0f, 0.0f));
+    if (glfwGetKey(window, GLFW_KEY_G) == GLFW_PRESS)
+        transform = glm::rotate(transform, glm::radians(-5.0f), glm::vec3(1.0f, 0.0f, 0.0f));
 }
 
 int main(){
+    //======================OUTPUT======================
+    //Direct std::out to txt file
+    FILE* pFile = nullptr;
+    errno_t err = freopen_s(&pFile, "sample_output.txt", "w", stdout);
+    if (err != 0) {
+        std::cerr << "Error redirecting stdout" << std::endl;
+        return 1;
+    }
+
     //======================WINDOW======================
     //Initializing GLFW
     if (!glfwInit()){
@@ -103,6 +124,10 @@ int main(){
     //Set up capturing sticky keys
     glfwSetInputMode(window, GLFW_STICKY_KEYS, GL_TRUE);
 
+    //Enable depth testing
+    glEnable(GL_DEPTH_TEST);
+    glDepthFunc(GL_LESS);
+
     //======================SHADERS======================
     //Create vertex shaders
     unsigned int vertexShader = glCreateShader(GL_VERTEX_SHADER);
@@ -129,6 +154,9 @@ int main(){
     //Delete unused shaders after linking
     glDeleteShader(vertexShader);
     glDeleteShader(fragmentShader);
+
+    //Get uniform location for gradiant
+    int colorLoc = glGetUniformLocation(shaderProgram, "ourColor");
 
     //======================SHAPE======================
     /*Pyramid vertices
@@ -192,7 +220,7 @@ int main(){
     glm::mat4 transform = glm::mat4(1.0f);
 
     // translation and scaling factor
-    const float d = 0.02f;  // Change in position per key press
+    const float d = 0.01f;  // Change in position per key press
     const float s = 1.05f;  // Scale factor for z-axis scaling
 
     //======================MAIN LOOP======================
@@ -211,6 +239,24 @@ int main(){
             glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS ||
             glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
         {
+            //Output
+            if (glfwGetKey(window, GLFW_KEY_W) == GLFW_PRESS)
+                std::cout << "Pressed W: Move pyramid upwards" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_S) == GLFW_PRESS)
+                std::cout << "Pressed S: Move pyramid downwards" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS)
+                std::cout << "Pressed A: Move pyramid left" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
+                std::cout << "Pressed D: Move pyramid right" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_Q) == GLFW_PRESS)
+                std::cout << "Pressed Q: Rotate pyramid along z axis anticlockwise" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
+                std::cout << "Pressed E: Rotate pyramid along z axis clockwise" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS)
+                std::cout << "Pressed R: Scale pyramid down along z axis" << std::endl;
+            if (glfwGetKey(window, GLFW_KEY_F) == GLFW_PRESS)
+                std::cout << "Pressed F: Scale pyramid up along z axis" << std::endl;
+
             std::cout << "Current Transformation Matrix:" << std::endl;
             // Print matrix in row-major order for clarity
             for (int row = 0; row < 4; row++) {
@@ -236,7 +282,7 @@ int main(){
 
         //Clear screen and set color
         glClearColor(0.2f, 0.3f, 0.3f, 0.1f);
-        glClear(GL_COLOR_BUFFER_BIT);
+        glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
         //Run shaders program
         glUseProgram(shaderProgram);
@@ -249,11 +295,26 @@ int main(){
         //glUniformMatrix4fv(transformLoc, 1, GL_FALSE, glm::value_ptr(trans));
         //==================================================
 
+        //Draw filled pyramid with red color.
+        glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
+        glUniform3f(colorLoc, 1.0f, 0.0f, 0.0f);
+
         //Bind Vertex Array
         glBindVertexArray(VAO[0]);
 
         //Draw element bases on elements array and object array, 18 vertices
         glDrawElements(GL_TRIANGLES, 18, GL_UNSIGNED_INT, 0);
+
+        //Draw outlines in black.
+        glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
+        glLineWidth(3.0f);
+        glUniform3f(colorLoc, 0.0f, 0.0f, 0.0f); // Black outline.
+
+        //Draw element bases on elements array and object array, 18 vertices
+        glDrawElements(GL_TRIANGLES, 18, GL_UNSIGNED_INT, 0);
+
+        // Restore polygon mode to fill.
+        glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
 
         // Swap buffers
         glfwSwapBuffers(window);

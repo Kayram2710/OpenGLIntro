@@ -1,0 +1,3910 @@
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.01
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.49, -0.5, 0.5)
+Vertex 1: (0.51, -0.5, 0.5)
+Vertex 2: (-0.49, -0.5, -0.5)
+Vertex 3: (0.51, -0.5, -0.5)
+Vertex 4: (0.01, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.02
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.48, -0.5, 0.5)
+Vertex 1: (0.52, -0.5, 0.5)
+Vertex 2: (-0.48, -0.5, -0.5)
+Vertex 3: (0.52, -0.5, -0.5)
+Vertex 4: (0.02, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.03
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.47, -0.5, 0.5)
+Vertex 1: (0.53, -0.5, 0.5)
+Vertex 2: (-0.47, -0.5, -0.5)
+Vertex 3: (0.53, -0.5, -0.5)
+Vertex 4: (0.03, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.5, 0.5)
+Vertex 1: (0.54, -0.5, 0.5)
+Vertex 2: (-0.46, -0.5, -0.5)
+Vertex 3: (0.54, -0.5, -0.5)
+Vertex 4: (0.04, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.05
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.45, -0.5, 0.5)
+Vertex 1: (0.55, -0.5, 0.5)
+Vertex 2: (-0.45, -0.5, -0.5)
+Vertex 3: (0.55, -0.5, -0.5)
+Vertex 4: (0.05, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.06
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.44, -0.5, 0.5)
+Vertex 1: (0.56, -0.5, 0.5)
+Vertex 2: (-0.44, -0.5, -0.5)
+Vertex 3: (0.56, -0.5, -0.5)
+Vertex 4: (0.06, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.07
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.43, -0.5, 0.5)
+Vertex 1: (0.57, -0.5, 0.5)
+Vertex 2: (-0.43, -0.5, -0.5)
+Vertex 3: (0.57, -0.5, -0.5)
+Vertex 4: (0.07, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.08
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.42, -0.5, 0.5)
+Vertex 1: (0.58, -0.5, 0.5)
+Vertex 2: (-0.42, -0.5, -0.5)
+Vertex 3: (0.58, -0.5, -0.5)
+Vertex 4: (0.08, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.09
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.41, -0.5, 0.5)
+Vertex 1: (0.59, -0.5, 0.5)
+Vertex 2: (-0.41, -0.5, -0.5)
+Vertex 3: (0.59, -0.5, -0.5)
+Vertex 4: (0.09, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.1
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.4, -0.5, 0.5)
+Vertex 1: (0.6, -0.5, 0.5)
+Vertex 2: (-0.4, -0.5, -0.5)
+Vertex 3: (0.6, -0.5, -0.5)
+Vertex 4: (0.1, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.11
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.39, -0.5, 0.5)
+Vertex 1: (0.61, -0.5, 0.5)
+Vertex 2: (-0.39, -0.5, -0.5)
+Vertex 3: (0.61, -0.5, -0.5)
+Vertex 4: (0.11, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.12
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.38, -0.5, 0.5)
+Vertex 1: (0.62, -0.5, 0.5)
+Vertex 2: (-0.38, -0.5, -0.5)
+Vertex 3: (0.62, -0.5, -0.5)
+Vertex 4: (0.12, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.13
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.37, -0.5, 0.5)
+Vertex 1: (0.63, -0.5, 0.5)
+Vertex 2: (-0.37, -0.5, -0.5)
+Vertex 3: (0.63, -0.5, -0.5)
+Vertex 4: (0.13, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.14
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.36, -0.5, 0.5)
+Vertex 1: (0.64, -0.5, 0.5)
+Vertex 2: (-0.36, -0.5, -0.5)
+Vertex 3: (0.64, -0.5, -0.5)
+Vertex 4: (0.14, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.15
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.35, -0.5, 0.5)
+Vertex 1: (0.65, -0.5, 0.5)
+Vertex 2: (-0.35, -0.5, -0.5)
+Vertex 3: (0.65, -0.5, -0.5)
+Vertex 4: (0.15, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.16
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.34, -0.5, 0.5)
+Vertex 1: (0.66, -0.5, 0.5)
+Vertex 2: (-0.34, -0.5, -0.5)
+Vertex 3: (0.66, -0.5, -0.5)
+Vertex 4: (0.16, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.5, 0.5)
+Vertex 1: (0.67, -0.5, 0.5)
+Vertex 2: (-0.33, -0.5, -0.5)
+Vertex 3: (0.67, -0.5, -0.5)
+Vertex 4: (0.17, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.18
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.32, -0.5, 0.5)
+Vertex 1: (0.68, -0.5, 0.5)
+Vertex 2: (-0.32, -0.5, -0.5)
+Vertex 3: (0.68, -0.5, -0.5)
+Vertex 4: (0.18, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.19
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.31, -0.5, 0.5)
+Vertex 1: (0.69, -0.5, 0.5)
+Vertex 2: (-0.31, -0.5, -0.5)
+Vertex 3: (0.69, -0.5, -0.5)
+Vertex 4: (0.19, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.2
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.3, -0.5, 0.5)
+Vertex 1: (0.7, -0.5, 0.5)
+Vertex 2: (-0.3, -0.5, -0.5)
+Vertex 3: (0.7, -0.5, -0.5)
+Vertex 4: (0.2, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.21
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.29, -0.5, 0.5)
+Vertex 1: (0.71, -0.5, 0.5)
+Vertex 2: (-0.29, -0.5, -0.5)
+Vertex 3: (0.71, -0.5, -0.5)
+Vertex 4: (0.21, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.22
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.28, -0.5, 0.5)
+Vertex 1: (0.72, -0.5, 0.5)
+Vertex 2: (-0.28, -0.5, -0.5)
+Vertex 3: (0.72, -0.5, -0.5)
+Vertex 4: (0.22, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.23
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.27, -0.5, 0.5)
+Vertex 1: (0.73, -0.5, 0.5)
+Vertex 2: (-0.27, -0.5, -0.5)
+Vertex 3: (0.73, -0.5, -0.5)
+Vertex 4: (0.23, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.24
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.26, -0.5, 0.5)
+Vertex 1: (0.74, -0.5, 0.5)
+Vertex 2: (-0.26, -0.5, -0.5)
+Vertex 3: (0.74, -0.5, -0.5)
+Vertex 4: (0.24, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.25
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.25, -0.5, 0.5)
+Vertex 1: (0.75, -0.5, 0.5)
+Vertex 2: (-0.25, -0.5, -0.5)
+Vertex 3: (0.75, -0.5, -0.5)
+Vertex 4: (0.25, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.26
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.24, -0.5, 0.5)
+Vertex 1: (0.76, -0.5, 0.5)
+Vertex 2: (-0.24, -0.5, -0.5)
+Vertex 3: (0.76, -0.5, -0.5)
+Vertex 4: (0.26, 0.5, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.27
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.23, -0.5, 0.5)
+Vertex 1: (0.77, -0.5, 0.5)
+Vertex 2: (-0.23, -0.5, -0.5)
+Vertex 3: (0.77, -0.5, -0.5)
+Vertex 4: (0.27, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.26
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.24, -0.5, 0.5)
+Vertex 1: (0.76, -0.5, 0.5)
+Vertex 2: (-0.24, -0.5, -0.5)
+Vertex 3: (0.76, -0.5, -0.5)
+Vertex 4: (0.26, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.25
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.25, -0.5, 0.5)
+Vertex 1: (0.75, -0.5, 0.5)
+Vertex 2: (-0.25, -0.5, -0.5)
+Vertex 3: (0.75, -0.5, -0.5)
+Vertex 4: (0.25, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.24
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.26, -0.5, 0.5)
+Vertex 1: (0.74, -0.5, 0.5)
+Vertex 2: (-0.26, -0.5, -0.5)
+Vertex 3: (0.74, -0.5, -0.5)
+Vertex 4: (0.24, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.23
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.27, -0.5, 0.5)
+Vertex 1: (0.73, -0.5, 0.5)
+Vertex 2: (-0.27, -0.5, -0.5)
+Vertex 3: (0.73, -0.5, -0.5)
+Vertex 4: (0.23, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.22
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.28, -0.5, 0.5)
+Vertex 1: (0.72, -0.5, 0.5)
+Vertex 2: (-0.28, -0.5, -0.5)
+Vertex 3: (0.72, -0.5, -0.5)
+Vertex 4: (0.22, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.21
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.29, -0.5, 0.5)
+Vertex 1: (0.71, -0.5, 0.5)
+Vertex 2: (-0.29, -0.5, -0.5)
+Vertex 3: (0.71, -0.5, -0.5)
+Vertex 4: (0.21, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.2
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.3, -0.5, 0.5)
+Vertex 1: (0.7, -0.5, 0.5)
+Vertex 2: (-0.3, -0.5, -0.5)
+Vertex 3: (0.7, -0.5, -0.5)
+Vertex 4: (0.2, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.19
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.31, -0.5, 0.5)
+Vertex 1: (0.69, -0.5, 0.5)
+Vertex 2: (-0.31, -0.5, -0.5)
+Vertex 3: (0.69, -0.5, -0.5)
+Vertex 4: (0.19, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.18
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.32, -0.5, 0.5)
+Vertex 1: (0.68, -0.5, 0.5)
+Vertex 2: (-0.32, -0.5, -0.5)
+Vertex 3: (0.68, -0.5, -0.5)
+Vertex 4: (0.18, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.5, 0.5)
+Vertex 1: (0.67, -0.5, 0.5)
+Vertex 2: (-0.33, -0.5, -0.5)
+Vertex 3: (0.67, -0.5, -0.5)
+Vertex 4: (0.17, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.16
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.34, -0.5, 0.5)
+Vertex 1: (0.66, -0.5, 0.5)
+Vertex 2: (-0.34, -0.5, -0.5)
+Vertex 3: (0.66, -0.5, -0.5)
+Vertex 4: (0.16, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.15
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.35, -0.5, 0.5)
+Vertex 1: (0.65, -0.5, 0.5)
+Vertex 2: (-0.35, -0.5, -0.5)
+Vertex 3: (0.65, -0.5, -0.5)
+Vertex 4: (0.15, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.14
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.36, -0.5, 0.5)
+Vertex 1: (0.64, -0.5, 0.5)
+Vertex 2: (-0.36, -0.5, -0.5)
+Vertex 3: (0.64, -0.5, -0.5)
+Vertex 4: (0.14, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.13
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.37, -0.5, 0.5)
+Vertex 1: (0.63, -0.5, 0.5)
+Vertex 2: (-0.37, -0.5, -0.5)
+Vertex 3: (0.63, -0.5, -0.5)
+Vertex 4: (0.13, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.12
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.38, -0.5, 0.5)
+Vertex 1: (0.62, -0.5, 0.5)
+Vertex 2: (-0.38, -0.5, -0.5)
+Vertex 3: (0.62, -0.5, -0.5)
+Vertex 4: (0.12, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.11
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.39, -0.5, 0.5)
+Vertex 1: (0.61, -0.5, 0.5)
+Vertex 2: (-0.39, -0.5, -0.5)
+Vertex 3: (0.61, -0.5, -0.5)
+Vertex 4: (0.11, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.1
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.4, -0.5, 0.5)
+Vertex 1: (0.6, -0.5, 0.5)
+Vertex 2: (-0.4, -0.5, -0.5)
+Vertex 3: (0.6, -0.5, -0.5)
+Vertex 4: (0.1, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.09
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.41, -0.5, 0.5)
+Vertex 1: (0.59, -0.5, 0.5)
+Vertex 2: (-0.41, -0.5, -0.5)
+Vertex 3: (0.59, -0.5, -0.5)
+Vertex 4: (0.09, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.08
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.42, -0.5, 0.5)
+Vertex 1: (0.58, -0.5, 0.5)
+Vertex 2: (-0.42, -0.5, -0.5)
+Vertex 3: (0.58, -0.5, -0.5)
+Vertex 4: (0.08, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.07
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.43, -0.5, 0.5)
+Vertex 1: (0.57, -0.5, 0.5)
+Vertex 2: (-0.43, -0.5, -0.5)
+Vertex 3: (0.57, -0.5, -0.5)
+Vertex 4: (0.07, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.06
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.44, -0.5, 0.5)
+Vertex 1: (0.56, -0.5, 0.5)
+Vertex 2: (-0.44, -0.5, -0.5)
+Vertex 3: (0.56, -0.5, -0.5)
+Vertex 4: (0.06, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.05
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.45, -0.5, 0.5)
+Vertex 1: (0.55, -0.5, 0.5)
+Vertex 2: (-0.45, -0.5, -0.5)
+Vertex 3: (0.55, -0.5, -0.5)
+Vertex 4: (0.05, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.5, 0.5)
+Vertex 1: (0.54, -0.5, 0.5)
+Vertex 2: (-0.46, -0.5, -0.5)
+Vertex 3: (0.54, -0.5, -0.5)
+Vertex 4: (0.04, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.03
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.47, -0.5, 0.5)
+Vertex 1: (0.53, -0.5, 0.5)
+Vertex 2: (-0.47, -0.5, -0.5)
+Vertex 3: (0.53, -0.5, -0.5)
+Vertex 4: (0.03, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.02
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.48, -0.5, 0.5)
+Vertex 1: (0.52, -0.5, 0.5)
+Vertex 2: (-0.48, -0.5, -0.5)
+Vertex 3: (0.52, -0.5, -0.5)
+Vertex 4: (0.02, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.00999998
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.49, -0.5, 0.5)
+Vertex 1: (0.51, -0.5, 0.5)
+Vertex 2: (-0.49, -0.5, -0.5)
+Vertex 3: (0.51, -0.5, -0.5)
+Vertex 4: (0.00999998, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -1.49012e-08
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.5, -0.5, 0.5)
+Vertex 1: (0.5, -0.5, 0.5)
+Vertex 2: (-0.5, -0.5, -0.5)
+Vertex 3: (0.5, -0.5, -0.5)
+Vertex 4: (-1.49012e-08, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.01
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.51, -0.5, 0.5)
+Vertex 1: (0.49, -0.5, 0.5)
+Vertex 2: (-0.51, -0.5, -0.5)
+Vertex 3: (0.49, -0.5, -0.5)
+Vertex 4: (-0.01, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.02
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.52, -0.5, 0.5)
+Vertex 1: (0.48, -0.5, 0.5)
+Vertex 2: (-0.52, -0.5, -0.5)
+Vertex 3: (0.48, -0.5, -0.5)
+Vertex 4: (-0.02, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.03
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.53, -0.5, 0.5)
+Vertex 1: (0.47, -0.5, 0.5)
+Vertex 2: (-0.53, -0.5, -0.5)
+Vertex 3: (0.47, -0.5, -0.5)
+Vertex 4: (-0.03, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.04
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.54, -0.5, 0.5)
+Vertex 1: (0.46, -0.5, 0.5)
+Vertex 2: (-0.54, -0.5, -0.5)
+Vertex 3: (0.46, -0.5, -0.5)
+Vertex 4: (-0.04, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.05
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.55, -0.5, 0.5)
+Vertex 1: (0.45, -0.5, 0.5)
+Vertex 2: (-0.55, -0.5, -0.5)
+Vertex 3: (0.45, -0.5, -0.5)
+Vertex 4: (-0.05, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.06
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.56, -0.5, 0.5)
+Vertex 1: (0.44, -0.5, 0.5)
+Vertex 2: (-0.56, -0.5, -0.5)
+Vertex 3: (0.44, -0.5, -0.5)
+Vertex 4: (-0.06, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.07
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.57, -0.5, 0.5)
+Vertex 1: (0.43, -0.5, 0.5)
+Vertex 2: (-0.57, -0.5, -0.5)
+Vertex 3: (0.43, -0.5, -0.5)
+Vertex 4: (-0.07, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.08
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.58, -0.5, 0.5)
+Vertex 1: (0.42, -0.5, 0.5)
+Vertex 2: (-0.58, -0.5, -0.5)
+Vertex 3: (0.42, -0.5, -0.5)
+Vertex 4: (-0.08, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.09
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.59, -0.5, 0.5)
+Vertex 1: (0.41, -0.5, 0.5)
+Vertex 2: (-0.59, -0.5, -0.5)
+Vertex 3: (0.41, -0.5, -0.5)
+Vertex 4: (-0.09, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.1
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.6, -0.5, 0.5)
+Vertex 1: (0.4, -0.5, 0.5)
+Vertex 2: (-0.6, -0.5, -0.5)
+Vertex 3: (0.4, -0.5, -0.5)
+Vertex 4: (-0.1, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.11
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.61, -0.5, 0.5)
+Vertex 1: (0.39, -0.5, 0.5)
+Vertex 2: (-0.61, -0.5, -0.5)
+Vertex 3: (0.39, -0.5, -0.5)
+Vertex 4: (-0.11, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.12
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.62, -0.5, 0.5)
+Vertex 1: (0.38, -0.5, 0.5)
+Vertex 2: (-0.62, -0.5, -0.5)
+Vertex 3: (0.38, -0.5, -0.5)
+Vertex 4: (-0.12, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.13
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.63, -0.5, 0.5)
+Vertex 1: (0.37, -0.5, 0.5)
+Vertex 2: (-0.63, -0.5, -0.5)
+Vertex 3: (0.37, -0.5, -0.5)
+Vertex 4: (-0.13, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.14
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.64, -0.5, 0.5)
+Vertex 1: (0.36, -0.5, 0.5)
+Vertex 2: (-0.64, -0.5, -0.5)
+Vertex 3: (0.36, -0.5, -0.5)
+Vertex 4: (-0.14, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.15
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.65, -0.5, 0.5)
+Vertex 1: (0.35, -0.5, 0.5)
+Vertex 2: (-0.65, -0.5, -0.5)
+Vertex 3: (0.35, -0.5, -0.5)
+Vertex 4: (-0.15, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.16
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.66, -0.5, 0.5)
+Vertex 1: (0.34, -0.5, 0.5)
+Vertex 2: (-0.66, -0.5, -0.5)
+Vertex 3: (0.34, -0.5, -0.5)
+Vertex 4: (-0.16, 0.5, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.17
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.67, -0.5, 0.5)
+Vertex 1: (0.33, -0.5, 0.5)
+Vertex 2: (-0.67, -0.5, -0.5)
+Vertex 3: (0.33, -0.5, -0.5)
+Vertex 4: (-0.17, 0.5, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 -0.18
+0 1 0 0.01
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.68, -0.49, 0.5)
+Vertex 1: (0.32, -0.49, 0.5)
+Vertex 2: (-0.68, -0.49, -0.5)
+Vertex 3: (0.32, -0.49, -0.5)
+Vertex 4: (-0.18, 0.51, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.02
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.48, 0.5)
+Vertex 1: (0.31, -0.48, 0.5)
+Vertex 2: (-0.69, -0.48, -0.5)
+Vertex 3: (0.31, -0.48, -0.5)
+Vertex 4: (-0.19, 0.52, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.03
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.47, 0.5)
+Vertex 1: (0.31, -0.47, 0.5)
+Vertex 2: (-0.69, -0.47, -0.5)
+Vertex 3: (0.31, -0.47, -0.5)
+Vertex 4: (-0.19, 0.53, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.04
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.46, 0.5)
+Vertex 1: (0.31, -0.46, 0.5)
+Vertex 2: (-0.69, -0.46, -0.5)
+Vertex 3: (0.31, -0.46, -0.5)
+Vertex 4: (-0.19, 0.54, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.05
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.45, 0.5)
+Vertex 1: (0.31, -0.45, 0.5)
+Vertex 2: (-0.69, -0.45, -0.5)
+Vertex 3: (0.31, -0.45, -0.5)
+Vertex 4: (-0.19, 0.55, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.06
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.44, 0.5)
+Vertex 1: (0.31, -0.44, 0.5)
+Vertex 2: (-0.69, -0.44, -0.5)
+Vertex 3: (0.31, -0.44, -0.5)
+Vertex 4: (-0.19, 0.56, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.07
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.43, 0.5)
+Vertex 1: (0.31, -0.43, 0.5)
+Vertex 2: (-0.69, -0.43, -0.5)
+Vertex 3: (0.31, -0.43, -0.5)
+Vertex 4: (-0.19, 0.57, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.08
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.42, 0.5)
+Vertex 1: (0.31, -0.42, 0.5)
+Vertex 2: (-0.69, -0.42, -0.5)
+Vertex 3: (0.31, -0.42, -0.5)
+Vertex 4: (-0.19, 0.58, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.09
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.41, 0.5)
+Vertex 1: (0.31, -0.41, 0.5)
+Vertex 2: (-0.69, -0.41, -0.5)
+Vertex 3: (0.31, -0.41, -0.5)
+Vertex 4: (-0.19, 0.59, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.1
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.4, 0.5)
+Vertex 1: (0.31, -0.4, 0.5)
+Vertex 2: (-0.69, -0.4, -0.5)
+Vertex 3: (0.31, -0.4, -0.5)
+Vertex 4: (-0.19, 0.6, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.39, 0.5)
+Vertex 1: (0.31, -0.39, 0.5)
+Vertex 2: (-0.69, -0.39, -0.5)
+Vertex 3: (0.31, -0.39, -0.5)
+Vertex 4: (-0.19, 0.61, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.12
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.38, 0.5)
+Vertex 1: (0.31, -0.38, 0.5)
+Vertex 2: (-0.69, -0.38, -0.5)
+Vertex 3: (0.31, -0.38, -0.5)
+Vertex 4: (-0.19, 0.62, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.13
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.37, 0.5)
+Vertex 1: (0.31, -0.37, 0.5)
+Vertex 2: (-0.69, -0.37, -0.5)
+Vertex 3: (0.31, -0.37, -0.5)
+Vertex 4: (-0.19, 0.63, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.14
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.36, 0.5)
+Vertex 1: (0.31, -0.36, 0.5)
+Vertex 2: (-0.69, -0.36, -0.5)
+Vertex 3: (0.31, -0.36, -0.5)
+Vertex 4: (-0.19, 0.64, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.15
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.35, 0.5)
+Vertex 1: (0.31, -0.35, 0.5)
+Vertex 2: (-0.69, -0.35, -0.5)
+Vertex 3: (0.31, -0.35, -0.5)
+Vertex 4: (-0.19, 0.65, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.16
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.34, 0.5)
+Vertex 1: (0.31, -0.34, 0.5)
+Vertex 2: (-0.69, -0.34, -0.5)
+Vertex 3: (0.31, -0.34, -0.5)
+Vertex 4: (-0.19, 0.66, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.17
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.33, 0.5)
+Vertex 1: (0.31, -0.33, 0.5)
+Vertex 2: (-0.69, -0.33, -0.5)
+Vertex 3: (0.31, -0.33, -0.5)
+Vertex 4: (-0.19, 0.67, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.18
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.32, 0.5)
+Vertex 1: (0.31, -0.32, 0.5)
+Vertex 2: (-0.69, -0.32, -0.5)
+Vertex 3: (0.31, -0.32, -0.5)
+Vertex 4: (-0.19, 0.68, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.19
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.31, 0.5)
+Vertex 1: (0.31, -0.31, 0.5)
+Vertex 2: (-0.69, -0.31, -0.5)
+Vertex 3: (0.31, -0.31, -0.5)
+Vertex 4: (-0.19, 0.69, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.2
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.3, 0.5)
+Vertex 1: (0.31, -0.3, 0.5)
+Vertex 2: (-0.69, -0.3, -0.5)
+Vertex 3: (0.31, -0.3, -0.5)
+Vertex 4: (-0.19, 0.7, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.21
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.29, 0.5)
+Vertex 1: (0.31, -0.29, 0.5)
+Vertex 2: (-0.69, -0.29, -0.5)
+Vertex 3: (0.31, -0.29, -0.5)
+Vertex 4: (-0.19, 0.71, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.22
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.28, 0.5)
+Vertex 1: (0.31, -0.28, 0.5)
+Vertex 2: (-0.69, -0.28, -0.5)
+Vertex 3: (0.31, -0.28, -0.5)
+Vertex 4: (-0.19, 0.72, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.23
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.27, 0.5)
+Vertex 1: (0.31, -0.27, 0.5)
+Vertex 2: (-0.69, -0.27, -0.5)
+Vertex 3: (0.31, -0.27, -0.5)
+Vertex 4: (-0.19, 0.73, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.24
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.26, 0.5)
+Vertex 1: (0.31, -0.26, 0.5)
+Vertex 2: (-0.69, -0.26, -0.5)
+Vertex 3: (0.31, -0.26, -0.5)
+Vertex 4: (-0.19, 0.74, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.25
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.25, 0.5)
+Vertex 1: (0.31, -0.25, 0.5)
+Vertex 2: (-0.69, -0.25, -0.5)
+Vertex 3: (0.31, -0.25, -0.5)
+Vertex 4: (-0.19, 0.75, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.26
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.24, 0.5)
+Vertex 1: (0.31, -0.24, 0.5)
+Vertex 2: (-0.69, -0.24, -0.5)
+Vertex 3: (0.31, -0.24, -0.5)
+Vertex 4: (-0.19, 0.76, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.27
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.23, 0.5)
+Vertex 1: (0.31, -0.23, 0.5)
+Vertex 2: (-0.69, -0.23, -0.5)
+Vertex 3: (0.31, -0.23, -0.5)
+Vertex 4: (-0.19, 0.77, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.28
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.22, 0.5)
+Vertex 1: (0.31, -0.22, 0.5)
+Vertex 2: (-0.69, -0.22, -0.5)
+Vertex 3: (0.31, -0.22, -0.5)
+Vertex 4: (-0.19, 0.78, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.29
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.21, 0.5)
+Vertex 1: (0.31, -0.21, 0.5)
+Vertex 2: (-0.69, -0.21, -0.5)
+Vertex 3: (0.31, -0.21, -0.5)
+Vertex 4: (-0.19, 0.79, 0)
+-----------------------------
+Pressed W: Move pyramid upwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.3
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.2, 0.5)
+Vertex 1: (0.31, -0.2, 0.5)
+Vertex 2: (-0.69, -0.2, -0.5)
+Vertex 3: (0.31, -0.2, -0.5)
+Vertex 4: (-0.19, 0.8, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.3
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.2, 0.5)
+Vertex 1: (0.31, -0.2, 0.5)
+Vertex 2: (-0.69, -0.2, -0.5)
+Vertex 3: (0.31, -0.2, -0.5)
+Vertex 4: (-0.19, 0.8, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.29
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.21, 0.5)
+Vertex 1: (0.31, -0.21, 0.5)
+Vertex 2: (-0.69, -0.21, -0.5)
+Vertex 3: (0.31, -0.21, -0.5)
+Vertex 4: (-0.19, 0.79, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.28
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.22, 0.5)
+Vertex 1: (0.31, -0.22, 0.5)
+Vertex 2: (-0.69, -0.22, -0.5)
+Vertex 3: (0.31, -0.22, -0.5)
+Vertex 4: (-0.19, 0.78, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.27
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.23, 0.5)
+Vertex 1: (0.31, -0.23, 0.5)
+Vertex 2: (-0.69, -0.23, -0.5)
+Vertex 3: (0.31, -0.23, -0.5)
+Vertex 4: (-0.19, 0.77, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.26
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.24, 0.5)
+Vertex 1: (0.31, -0.24, 0.5)
+Vertex 2: (-0.69, -0.24, -0.5)
+Vertex 3: (0.31, -0.24, -0.5)
+Vertex 4: (-0.19, 0.76, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.25
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.25, 0.5)
+Vertex 1: (0.31, -0.25, 0.5)
+Vertex 2: (-0.69, -0.25, -0.5)
+Vertex 3: (0.31, -0.25, -0.5)
+Vertex 4: (-0.19, 0.75, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.24
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.26, 0.5)
+Vertex 1: (0.31, -0.26, 0.5)
+Vertex 2: (-0.69, -0.26, -0.5)
+Vertex 3: (0.31, -0.26, -0.5)
+Vertex 4: (-0.19, 0.74, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.23
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.27, 0.5)
+Vertex 1: (0.31, -0.27, 0.5)
+Vertex 2: (-0.69, -0.27, -0.5)
+Vertex 3: (0.31, -0.27, -0.5)
+Vertex 4: (-0.19, 0.73, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.22
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.28, 0.5)
+Vertex 1: (0.31, -0.28, 0.5)
+Vertex 2: (-0.69, -0.28, -0.5)
+Vertex 3: (0.31, -0.28, -0.5)
+Vertex 4: (-0.19, 0.72, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.21
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.29, 0.5)
+Vertex 1: (0.31, -0.29, 0.5)
+Vertex 2: (-0.69, -0.29, -0.5)
+Vertex 3: (0.31, -0.29, -0.5)
+Vertex 4: (-0.19, 0.71, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.2
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.3, 0.5)
+Vertex 1: (0.31, -0.3, 0.5)
+Vertex 2: (-0.69, -0.3, -0.5)
+Vertex 3: (0.31, -0.3, -0.5)
+Vertex 4: (-0.19, 0.7, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.19
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.31, 0.5)
+Vertex 1: (0.31, -0.31, 0.5)
+Vertex 2: (-0.69, -0.31, -0.5)
+Vertex 3: (0.31, -0.31, -0.5)
+Vertex 4: (-0.19, 0.69, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.18
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.32, 0.5)
+Vertex 1: (0.31, -0.32, 0.5)
+Vertex 2: (-0.69, -0.32, -0.5)
+Vertex 3: (0.31, -0.32, -0.5)
+Vertex 4: (-0.19, 0.68, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.17
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.33, 0.5)
+Vertex 1: (0.31, -0.33, 0.5)
+Vertex 2: (-0.69, -0.33, -0.5)
+Vertex 3: (0.31, -0.33, -0.5)
+Vertex 4: (-0.19, 0.67, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.16
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.34, 0.5)
+Vertex 1: (0.31, -0.34, 0.5)
+Vertex 2: (-0.69, -0.34, -0.5)
+Vertex 3: (0.31, -0.34, -0.5)
+Vertex 4: (-0.19, 0.66, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.15
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.35, 0.5)
+Vertex 1: (0.31, -0.35, 0.5)
+Vertex 2: (-0.69, -0.35, -0.5)
+Vertex 3: (0.31, -0.35, -0.5)
+Vertex 4: (-0.19, 0.65, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.14
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.36, 0.5)
+Vertex 1: (0.31, -0.36, 0.5)
+Vertex 2: (-0.69, -0.36, -0.5)
+Vertex 3: (0.31, -0.36, -0.5)
+Vertex 4: (-0.19, 0.64, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.13
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.37, 0.5)
+Vertex 1: (0.31, -0.37, 0.5)
+Vertex 2: (-0.69, -0.37, -0.5)
+Vertex 3: (0.31, -0.37, -0.5)
+Vertex 4: (-0.19, 0.63, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.12
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.38, 0.5)
+Vertex 1: (0.31, -0.38, 0.5)
+Vertex 2: (-0.69, -0.38, -0.5)
+Vertex 3: (0.31, -0.38, -0.5)
+Vertex 4: (-0.19, 0.62, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.39, 0.5)
+Vertex 1: (0.31, -0.39, 0.5)
+Vertex 2: (-0.69, -0.39, -0.5)
+Vertex 3: (0.31, -0.39, -0.5)
+Vertex 4: (-0.19, 0.61, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.1
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.4, 0.5)
+Vertex 1: (0.31, -0.4, 0.5)
+Vertex 2: (-0.69, -0.4, -0.5)
+Vertex 3: (0.31, -0.4, -0.5)
+Vertex 4: (-0.19, 0.6, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.09
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.41, 0.5)
+Vertex 1: (0.31, -0.41, 0.5)
+Vertex 2: (-0.69, -0.41, -0.5)
+Vertex 3: (0.31, -0.41, -0.5)
+Vertex 4: (-0.19, 0.59, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.08
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.42, 0.5)
+Vertex 1: (0.31, -0.42, 0.5)
+Vertex 2: (-0.69, -0.42, -0.5)
+Vertex 3: (0.31, -0.42, -0.5)
+Vertex 4: (-0.19, 0.58, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.07
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.43, 0.5)
+Vertex 1: (0.31, -0.43, 0.5)
+Vertex 2: (-0.69, -0.43, -0.5)
+Vertex 3: (0.31, -0.43, -0.5)
+Vertex 4: (-0.19, 0.57, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.06
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.44, 0.5)
+Vertex 1: (0.31, -0.44, 0.5)
+Vertex 2: (-0.69, -0.44, -0.5)
+Vertex 3: (0.31, -0.44, -0.5)
+Vertex 4: (-0.19, 0.56, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.05
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.45, 0.5)
+Vertex 1: (0.31, -0.45, 0.5)
+Vertex 2: (-0.69, -0.45, -0.5)
+Vertex 3: (0.31, -0.45, -0.5)
+Vertex 4: (-0.19, 0.55, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.04
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.46, 0.5)
+Vertex 1: (0.31, -0.46, 0.5)
+Vertex 2: (-0.69, -0.46, -0.5)
+Vertex 3: (0.31, -0.46, -0.5)
+Vertex 4: (-0.19, 0.54, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.03
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.47, 0.5)
+Vertex 1: (0.31, -0.47, 0.5)
+Vertex 2: (-0.69, -0.47, -0.5)
+Vertex 3: (0.31, -0.47, -0.5)
+Vertex 4: (-0.19, 0.53, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.02
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.48, 0.5)
+Vertex 1: (0.31, -0.48, 0.5)
+Vertex 2: (-0.69, -0.48, -0.5)
+Vertex 3: (0.31, -0.48, -0.5)
+Vertex 4: (-0.19, 0.52, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 0.00999998
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.49, 0.5)
+Vertex 1: (0.31, -0.49, 0.5)
+Vertex 2: (-0.69, -0.49, -0.5)
+Vertex 3: (0.31, -0.49, -0.5)
+Vertex 4: (-0.19, 0.51, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 -1.49012e-08
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.5, 0.5)
+Vertex 1: (0.31, -0.5, 0.5)
+Vertex 2: (-0.69, -0.5, -0.5)
+Vertex 3: (0.31, -0.5, -0.5)
+Vertex 4: (-0.19, 0.5, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 -0.01
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.51, 0.5)
+Vertex 1: (0.31, -0.51, 0.5)
+Vertex 2: (-0.69, -0.51, -0.5)
+Vertex 3: (0.31, -0.51, -0.5)
+Vertex 4: (-0.19, 0.49, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 -0.02
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.52, 0.5)
+Vertex 1: (0.31, -0.52, 0.5)
+Vertex 2: (-0.69, -0.52, -0.5)
+Vertex 3: (0.31, -0.52, -0.5)
+Vertex 4: (-0.19, 0.48, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Current Transformation Matrix:
+1 0 0 -0.19
+0 1 0 -0.03
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.69, -0.53, 0.5)
+Vertex 1: (0.31, -0.53, 0.5)
+Vertex 2: (-0.69, -0.53, -0.5)
+Vertex 3: (0.31, -0.53, -0.5)
+Vertex 4: (-0.19, 0.47, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.18
+0 1 0 -0.04
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.68, -0.54, 0.5)
+Vertex 1: (0.32, -0.54, 0.5)
+Vertex 2: (-0.68, -0.54, -0.5)
+Vertex 3: (0.32, -0.54, -0.5)
+Vertex 4: (-0.18, 0.46, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.17
+0 1 0 -0.05
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.67, -0.55, 0.5)
+Vertex 1: (0.33, -0.55, 0.5)
+Vertex 2: (-0.67, -0.55, -0.5)
+Vertex 3: (0.33, -0.55, -0.5)
+Vertex 4: (-0.17, 0.45, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.16
+0 1 0 -0.06
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.66, -0.56, 0.5)
+Vertex 1: (0.34, -0.56, 0.5)
+Vertex 2: (-0.66, -0.56, -0.5)
+Vertex 3: (0.34, -0.56, -0.5)
+Vertex 4: (-0.16, 0.44, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.15
+0 1 0 -0.07
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.65, -0.57, 0.5)
+Vertex 1: (0.35, -0.57, 0.5)
+Vertex 2: (-0.65, -0.57, -0.5)
+Vertex 3: (0.35, -0.57, -0.5)
+Vertex 4: (-0.15, 0.43, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.14
+0 1 0 -0.08
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.64, -0.58, 0.5)
+Vertex 1: (0.36, -0.58, 0.5)
+Vertex 2: (-0.64, -0.58, -0.5)
+Vertex 3: (0.36, -0.58, -0.5)
+Vertex 4: (-0.14, 0.42, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.13
+0 1 0 -0.09
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.63, -0.59, 0.5)
+Vertex 1: (0.37, -0.59, 0.5)
+Vertex 2: (-0.63, -0.59, -0.5)
+Vertex 3: (0.37, -0.59, -0.5)
+Vertex 4: (-0.13, 0.41, 0)
+-----------------------------
+Pressed S: Move pyramid downwards
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.12
+0 1 0 -0.1
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.62, -0.6, 0.5)
+Vertex 1: (0.38, -0.6, 0.5)
+Vertex 2: (-0.62, -0.6, -0.5)
+Vertex 3: (0.38, -0.6, -0.5)
+Vertex 4: (-0.12, 0.4, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.11
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.61, -0.61, 0.5)
+Vertex 1: (0.39, -0.61, 0.5)
+Vertex 2: (-0.61, -0.61, -0.5)
+Vertex 3: (0.39, -0.61, -0.5)
+Vertex 4: (-0.11, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.1
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.6, -0.61, 0.5)
+Vertex 1: (0.4, -0.61, 0.5)
+Vertex 2: (-0.6, -0.61, -0.5)
+Vertex 3: (0.4, -0.61, -0.5)
+Vertex 4: (-0.1, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.09
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.59, -0.61, 0.5)
+Vertex 1: (0.41, -0.61, 0.5)
+Vertex 2: (-0.59, -0.61, -0.5)
+Vertex 3: (0.41, -0.61, -0.5)
+Vertex 4: (-0.09, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.08
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.58, -0.61, 0.5)
+Vertex 1: (0.42, -0.61, 0.5)
+Vertex 2: (-0.58, -0.61, -0.5)
+Vertex 3: (0.42, -0.61, -0.5)
+Vertex 4: (-0.08, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.07
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.57, -0.61, 0.5)
+Vertex 1: (0.43, -0.61, 0.5)
+Vertex 2: (-0.57, -0.61, -0.5)
+Vertex 3: (0.43, -0.61, -0.5)
+Vertex 4: (-0.07, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.06
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.56, -0.61, 0.5)
+Vertex 1: (0.44, -0.61, 0.5)
+Vertex 2: (-0.56, -0.61, -0.5)
+Vertex 3: (0.44, -0.61, -0.5)
+Vertex 4: (-0.06, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.05
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.55, -0.61, 0.5)
+Vertex 1: (0.45, -0.61, 0.5)
+Vertex 2: (-0.55, -0.61, -0.5)
+Vertex 3: (0.45, -0.61, -0.5)
+Vertex 4: (-0.05, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.04
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.54, -0.61, 0.5)
+Vertex 1: (0.46, -0.61, 0.5)
+Vertex 2: (-0.54, -0.61, -0.5)
+Vertex 3: (0.46, -0.61, -0.5)
+Vertex 4: (-0.04, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.03
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.53, -0.61, 0.5)
+Vertex 1: (0.47, -0.61, 0.5)
+Vertex 2: (-0.53, -0.61, -0.5)
+Vertex 3: (0.47, -0.61, -0.5)
+Vertex 4: (-0.03, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.02
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.52, -0.61, 0.5)
+Vertex 1: (0.48, -0.61, 0.5)
+Vertex 2: (-0.52, -0.61, -0.5)
+Vertex 3: (0.48, -0.61, -0.5)
+Vertex 4: (-0.02, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -0.01
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.51, -0.61, 0.5)
+Vertex 1: (0.49, -0.61, 0.5)
+Vertex 2: (-0.51, -0.61, -0.5)
+Vertex 3: (0.49, -0.61, -0.5)
+Vertex 4: (-0.01, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 -1.49012e-08
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.5, -0.61, 0.5)
+Vertex 1: (0.5, -0.61, 0.5)
+Vertex 2: (-0.5, -0.61, -0.5)
+Vertex 3: (0.5, -0.61, -0.5)
+Vertex 4: (-1.49012e-08, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.00999998
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.49, -0.61, 0.5)
+Vertex 1: (0.51, -0.61, 0.5)
+Vertex 2: (-0.49, -0.61, -0.5)
+Vertex 3: (0.51, -0.61, -0.5)
+Vertex 4: (0.00999998, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.02
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.48, -0.61, 0.5)
+Vertex 1: (0.52, -0.61, 0.5)
+Vertex 2: (-0.48, -0.61, -0.5)
+Vertex 3: (0.52, -0.61, -0.5)
+Vertex 4: (0.02, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.03
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.47, -0.61, 0.5)
+Vertex 1: (0.53, -0.61, 0.5)
+Vertex 2: (-0.47, -0.61, -0.5)
+Vertex 3: (0.53, -0.61, -0.5)
+Vertex 4: (0.03, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.5)
+Vertex 1: (0.54, -0.61, 0.5)
+Vertex 2: (-0.46, -0.61, -0.5)
+Vertex 3: (0.54, -0.61, -0.5)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.05
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.45, -0.61, 0.5)
+Vertex 1: (0.55, -0.61, 0.5)
+Vertex 2: (-0.45, -0.61, -0.5)
+Vertex 3: (0.55, -0.61, -0.5)
+Vertex 4: (0.05, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.06
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.44, -0.61, 0.5)
+Vertex 1: (0.56, -0.61, 0.5)
+Vertex 2: (-0.44, -0.61, -0.5)
+Vertex 3: (0.56, -0.61, -0.5)
+Vertex 4: (0.06, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.07
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.43, -0.61, 0.5)
+Vertex 1: (0.57, -0.61, 0.5)
+Vertex 2: (-0.43, -0.61, -0.5)
+Vertex 3: (0.57, -0.61, -0.5)
+Vertex 4: (0.07, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.08
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.42, -0.61, 0.5)
+Vertex 1: (0.58, -0.61, 0.5)
+Vertex 2: (-0.42, -0.61, -0.5)
+Vertex 3: (0.58, -0.61, -0.5)
+Vertex 4: (0.08, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.09
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.41, -0.61, 0.5)
+Vertex 1: (0.59, -0.61, 0.5)
+Vertex 2: (-0.41, -0.61, -0.5)
+Vertex 3: (0.59, -0.61, -0.5)
+Vertex 4: (0.09, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.1
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.4, -0.61, 0.5)
+Vertex 1: (0.6, -0.61, 0.5)
+Vertex 2: (-0.4, -0.61, -0.5)
+Vertex 3: (0.6, -0.61, -0.5)
+Vertex 4: (0.1, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.11
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.39, -0.61, 0.5)
+Vertex 1: (0.61, -0.61, 0.5)
+Vertex 2: (-0.39, -0.61, -0.5)
+Vertex 3: (0.61, -0.61, -0.5)
+Vertex 4: (0.11, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.12
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.38, -0.61, 0.5)
+Vertex 1: (0.62, -0.61, 0.5)
+Vertex 2: (-0.38, -0.61, -0.5)
+Vertex 3: (0.62, -0.61, -0.5)
+Vertex 4: (0.12, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.13
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.37, -0.61, 0.5)
+Vertex 1: (0.63, -0.61, 0.5)
+Vertex 2: (-0.37, -0.61, -0.5)
+Vertex 3: (0.63, -0.61, -0.5)
+Vertex 4: (0.13, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.14
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.36, -0.61, 0.5)
+Vertex 1: (0.64, -0.61, 0.5)
+Vertex 2: (-0.36, -0.61, -0.5)
+Vertex 3: (0.64, -0.61, -0.5)
+Vertex 4: (0.14, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.15
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.35, -0.61, 0.5)
+Vertex 1: (0.65, -0.61, 0.5)
+Vertex 2: (-0.35, -0.61, -0.5)
+Vertex 3: (0.65, -0.61, -0.5)
+Vertex 4: (0.15, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.16
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.34, -0.61, 0.5)
+Vertex 1: (0.66, -0.61, 0.5)
+Vertex 2: (-0.34, -0.61, -0.5)
+Vertex 3: (0.66, -0.61, -0.5)
+Vertex 4: (0.16, 0.39, 0)
+-----------------------------
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Pressed D: Move pyramid right
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.17
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.33, -0.61, 0.5)
+Vertex 1: (0.67, -0.61, 0.5)
+Vertex 2: (-0.33, -0.61, -0.5)
+Vertex 3: (0.67, -0.61, -0.5)
+Vertex 4: (0.17, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.16
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.34, -0.61, 0.5)
+Vertex 1: (0.66, -0.61, 0.5)
+Vertex 2: (-0.34, -0.61, -0.5)
+Vertex 3: (0.66, -0.61, -0.5)
+Vertex 4: (0.16, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.15
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.35, -0.61, 0.5)
+Vertex 1: (0.65, -0.61, 0.5)
+Vertex 2: (-0.35, -0.61, -0.5)
+Vertex 3: (0.65, -0.61, -0.5)
+Vertex 4: (0.15, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.14
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.36, -0.61, 0.5)
+Vertex 1: (0.64, -0.61, 0.5)
+Vertex 2: (-0.36, -0.61, -0.5)
+Vertex 3: (0.64, -0.61, -0.5)
+Vertex 4: (0.14, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.13
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.37, -0.61, 0.5)
+Vertex 1: (0.63, -0.61, 0.5)
+Vertex 2: (-0.37, -0.61, -0.5)
+Vertex 3: (0.63, -0.61, -0.5)
+Vertex 4: (0.13, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.12
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.38, -0.61, 0.5)
+Vertex 1: (0.62, -0.61, 0.5)
+Vertex 2: (-0.38, -0.61, -0.5)
+Vertex 3: (0.62, -0.61, -0.5)
+Vertex 4: (0.12, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.11
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.39, -0.61, 0.5)
+Vertex 1: (0.61, -0.61, 0.5)
+Vertex 2: (-0.39, -0.61, -0.5)
+Vertex 3: (0.61, -0.61, -0.5)
+Vertex 4: (0.11, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.1
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.4, -0.61, 0.5)
+Vertex 1: (0.6, -0.61, 0.5)
+Vertex 2: (-0.4, -0.61, -0.5)
+Vertex 3: (0.6, -0.61, -0.5)
+Vertex 4: (0.1, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.09
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.41, -0.61, 0.5)
+Vertex 1: (0.59, -0.61, 0.5)
+Vertex 2: (-0.41, -0.61, -0.5)
+Vertex 3: (0.59, -0.61, -0.5)
+Vertex 4: (0.09, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.08
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.42, -0.61, 0.5)
+Vertex 1: (0.58, -0.61, 0.5)
+Vertex 2: (-0.42, -0.61, -0.5)
+Vertex 3: (0.58, -0.61, -0.5)
+Vertex 4: (0.08, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.07
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.43, -0.61, 0.5)
+Vertex 1: (0.57, -0.61, 0.5)
+Vertex 2: (-0.43, -0.61, -0.5)
+Vertex 3: (0.57, -0.61, -0.5)
+Vertex 4: (0.07, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.06
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.44, -0.61, 0.5)
+Vertex 1: (0.56, -0.61, 0.5)
+Vertex 2: (-0.44, -0.61, -0.5)
+Vertex 3: (0.56, -0.61, -0.5)
+Vertex 4: (0.06, 0.39, 0)
+-----------------------------
+Pressed A: Move pyramid left
+Current Transformation Matrix:
+1 0 0 0.05
+0 1 0 -0.11
+0 0 1 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.45, -0.61, 0.5)
+Vertex 1: (0.55, -0.61, 0.5)
+Vertex 2: (-0.45, -0.61, -0.5)
+Vertex 3: (0.55, -0.61, -0.5)
+Vertex 4: (0.05, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.05 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.525)
+Vertex 1: (0.54, -0.61, 0.525)
+Vertex 2: (-0.46, -0.61, -0.525)
+Vertex 3: (0.54, -0.61, -0.525)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.1025 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.55125)
+Vertex 1: (0.54, -0.61, 0.55125)
+Vertex 2: (-0.46, -0.61, -0.55125)
+Vertex 3: (0.54, -0.61, -0.55125)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.15762 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.578812)
+Vertex 1: (0.54, -0.61, 0.578812)
+Vertex 2: (-0.46, -0.61, -0.578812)
+Vertex 3: (0.54, -0.61, -0.578812)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.21551 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.607753)
+Vertex 1: (0.54, -0.61, 0.607753)
+Vertex 2: (-0.46, -0.61, -0.607753)
+Vertex 3: (0.54, -0.61, -0.607753)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.27628 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.638141)
+Vertex 1: (0.54, -0.61, 0.638141)
+Vertex 2: (-0.46, -0.61, -0.638141)
+Vertex 3: (0.54, -0.61, -0.638141)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.3401 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.670048)
+Vertex 1: (0.54, -0.61, 0.670048)
+Vertex 2: (-0.46, -0.61, -0.670048)
+Vertex 3: (0.54, -0.61, -0.670048)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.4071 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.70355)
+Vertex 1: (0.54, -0.61, 0.70355)
+Vertex 2: (-0.46, -0.61, -0.70355)
+Vertex 3: (0.54, -0.61, -0.70355)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.47746 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.738728)
+Vertex 1: (0.54, -0.61, 0.738728)
+Vertex 2: (-0.46, -0.61, -0.738728)
+Vertex 3: (0.54, -0.61, -0.738728)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.55133 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.775664)
+Vertex 1: (0.54, -0.61, 0.775664)
+Vertex 2: (-0.46, -0.61, -0.775664)
+Vertex 3: (0.54, -0.61, -0.775664)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.62889 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.814447)
+Vertex 1: (0.54, -0.61, 0.814447)
+Vertex 2: (-0.46, -0.61, -0.814447)
+Vertex 3: (0.54, -0.61, -0.814447)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.71034 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.855169)
+Vertex 1: (0.54, -0.61, 0.855169)
+Vertex 2: (-0.46, -0.61, -0.855169)
+Vertex 3: (0.54, -0.61, -0.855169)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.79586 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.897928)
+Vertex 1: (0.54, -0.61, 0.897928)
+Vertex 2: (-0.46, -0.61, -0.897928)
+Vertex 3: (0.54, -0.61, -0.897928)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.88565 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.942824)
+Vertex 1: (0.54, -0.61, 0.942824)
+Vertex 2: (-0.46, -0.61, -0.942824)
+Vertex 3: (0.54, -0.61, -0.942824)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 1.97993 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 0.989965)
+Vertex 1: (0.54, -0.61, 0.989965)
+Vertex 2: (-0.46, -0.61, -0.989965)
+Vertex 3: (0.54, -0.61, -0.989965)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.07893 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.03946)
+Vertex 1: (0.54, -0.61, 1.03946)
+Vertex 2: (-0.46, -0.61, -1.03946)
+Vertex 3: (0.54, -0.61, -1.03946)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.18287 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.09144)
+Vertex 1: (0.54, -0.61, 1.09144)
+Vertex 2: (-0.46, -0.61, -1.09144)
+Vertex 3: (0.54, -0.61, -1.09144)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.29202 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.14601)
+Vertex 1: (0.54, -0.61, 1.14601)
+Vertex 2: (-0.46, -0.61, -1.14601)
+Vertex 3: (0.54, -0.61, -1.14601)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.40662 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.20331)
+Vertex 1: (0.54, -0.61, 1.20331)
+Vertex 2: (-0.46, -0.61, -1.20331)
+Vertex 3: (0.54, -0.61, -1.20331)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.52695 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.26347)
+Vertex 1: (0.54, -0.61, 1.26347)
+Vertex 2: (-0.46, -0.61, -1.26347)
+Vertex 3: (0.54, -0.61, -1.26347)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.6533 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.32665)
+Vertex 1: (0.54, -0.61, 1.32665)
+Vertex 2: (-0.46, -0.61, -1.32665)
+Vertex 3: (0.54, -0.61, -1.32665)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Pressed R: Scale pyramid down along z axis
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.78596 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.39298)
+Vertex 1: (0.723013, -0.293013, 1.39298)
+Vertex 2: (-0.143013, -0.793013, -1.39298)
+Vertex 3: (0.723013, -0.293013, -1.39298)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed Q: Rotate pyramid along z axis anticlockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0 -1 0 0.04
+1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, -0.61, 1.46263)
+Vertex 1: (0.54, 0.39, 1.46263)
+Vertex 2: (0.54, -0.61, -1.46263)
+Vertex 3: (0.54, 0.39, -1.46263)
+Vertex 4: (-0.46, -0.11, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.5 -0.866025 0 0.04
+0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, -0.793013, 1.46263)
+Vertex 1: (0.723013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, -0.793013, -1.46263)
+Vertex 3: (0.723013, 0.0730127, -1.46263)
+Vertex 4: (-0.393013, 0.14, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.866025 -0.5 0 0.04
+0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, -0.793013, 1.46263)
+Vertex 1: (0.723013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, -0.793013, -1.46263)
+Vertex 3: (0.723013, -0.293013, -1.46263)
+Vertex 4: (-0.21, 0.323013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+1 0 0 0.04
+0 1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, -0.61, 1.46263)
+Vertex 1: (0.54, -0.61, 1.46263)
+Vertex 2: (-0.46, -0.61, -1.46263)
+Vertex 3: (0.54, -0.61, -1.46263)
+Vertex 4: (0.04, 0.39, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.866025 0.5 0 0.04
+-0.5 0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, -0.293013, 1.46263)
+Vertex 1: (0.223013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, -0.293013, -1.46263)
+Vertex 3: (0.223013, -0.793013, -1.46263)
+Vertex 4: (0.29, 0.323013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0.5 0.866025 0 0.04
+-0.866025 0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.643013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, -0.793013, 1.46263)
+Vertex 2: (-0.643013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, -0.793013, -1.46263)
+Vertex 4: (0.473013, 0.14, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+0 1 0 0.04
+-1 0 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.46, 0.39, 1.46263)
+Vertex 1: (-0.46, -0.61, 1.46263)
+Vertex 2: (-0.46, 0.39, -1.46263)
+Vertex 3: (-0.46, -0.61, -1.46263)
+Vertex 4: (0.54, -0.11, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.5 0.866025 0 0.04
+-0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (-0.143013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, -0.293013, 1.46263)
+Vertex 2: (-0.143013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, -0.293013, -1.46263)
+Vertex 4: (0.473013, -0.36, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.866025 0.5 0 0.04
+-0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.223013, 0.573013, 1.46263)
+Vertex 1: (-0.643013, 0.0730127, 1.46263)
+Vertex 2: (0.223013, 0.573013, -1.46263)
+Vertex 3: (-0.643013, 0.0730127, -1.46263)
+Vertex 4: (0.29, -0.543013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-1 0 0 0.04
+0 -1 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.54, 0.39, 1.46263)
+Vertex 1: (-0.46, 0.39, 1.46263)
+Vertex 2: (0.54, 0.39, -1.46263)
+Vertex 3: (-0.46, 0.39, -1.46263)
+Vertex 4: (0.04, -0.61, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.866025 -0.5 0 0.04
+0.5 -0.866025 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, 0.0730127, 1.46263)
+Vertex 1: (-0.143013, 0.573013, 1.46263)
+Vertex 2: (0.723013, 0.0730127, -1.46263)
+Vertex 3: (-0.143013, 0.573013, -1.46263)
+Vertex 4: (-0.21, -0.543013, 0)
+-----------------------------
+Pressed E: Rotate pyramid along z axis clockwise
+Current Transformation Matrix:
+-0.5 -0.866025 0 0.04
+0.866025 -0.5 0 -0.11
+0 0 2.92526 0
+0 0 0 1
+Transformed Vertex Positions:
+Vertex 0: (0.723013, -0.293013, 1.46263)
+Vertex 1: (0.223013, 0.573013, 1.46263)
+Vertex 2: (0.723013, -0.293013, -1.46263)
+Vertex 3: (0.223013, 0.573013, -1.46263)
+Vertex 4: (-0.393013, -0.36, 0)
+-----------------------------
