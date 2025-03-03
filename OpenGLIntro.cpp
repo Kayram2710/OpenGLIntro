@@ -1,4 +1,4 @@
-
+//By Jammie Assenov(40174965) & Karim El Assaad(40127808)
 // OpenGLIntro.cpp : This file contains the 'main' function. Program execution begins and ends there.
 #include <iostream>
 #include <cstdio>
